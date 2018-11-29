@@ -159,3 +159,5 @@ type(simple_train_dtm)
 <class 'scipy.sparse.csr.csr_matrix'>
 """
 
+#Example text for Model Testing
+simple_test = ["Please don't call me"]
